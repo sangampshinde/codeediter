@@ -7,6 +7,7 @@ import EditerPage from './pages/EditerPage';
 function App() {
   return (
     <>
+    {/* roting here */}
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home/>}></Route>
