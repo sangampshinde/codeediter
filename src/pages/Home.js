@@ -40,6 +40,7 @@ function Home() {
     });
 
   };
+  
    //we handle  enter key page entery 
   const handleInputEnter =(e)=>{
     // console.log('event: ',e.code)
@@ -49,6 +50,7 @@ function Home() {
    }
 
   }
+
 
 
   return (
