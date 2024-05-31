@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Client from '../components/Client';
+import Editer from '../components/Editer';
 
 function EditerPage() {
   const [clients,setClients] =useState([

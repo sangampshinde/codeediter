@@ -53,3 +53,9 @@
   color: #4aed88;
   text-decoration: none;
 }
+
+.mainWrap{
+  display: grid;
+  grid-template-columns: ;
+
+}
