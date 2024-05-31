@@ -25,9 +25,13 @@ function EditerPage() {
             ))
             }
           </div>
+          <button className="btn copyBtn">Copy ROOM ID</button>
+          <button className="btn exitBtn">Exit</button>
       </div>
     </div>
-    <div className="editorWrap">Editer goes here....</div>
+    <div className="editorWrap">
+          <Editer></Editer>
+    </div>
       
     </div>
   )
