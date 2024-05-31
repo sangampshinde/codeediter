@@ -7,6 +7,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #686D76;
 }
-
+.logo{
+  width: 70px;
+  height: 70px;
+}
 
  
